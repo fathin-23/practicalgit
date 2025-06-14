@@ -1,1 +1,2 @@
-Web development involves building and maintaining websites, Web Applications, and Mobile Applications.
+Web development involves building and maintaining websites, Web Applications, and Mobile Application.
+It encompasses various aspects,
