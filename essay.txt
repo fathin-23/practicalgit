@@ -1,2 +1,2 @@
 Web development involves building and maintaining websites, Web Applications, and Mobile Application.
-It encompasses various aspects,
+It encompasses various aspects, including front-end development (client-side), back-end development (server-side), and full-stack development.
